@@ -1,0 +1,110 @@
+/* Font Style Starts */
+@font-face {
+    font-family: 'poppins-medium';
+    src: url('../font/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-bold';
+    src: url('../font/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-extralight';
+    src: url('../font/Poppins-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-regular';
+    src: url('../font/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-semiBold';
+    src: url('../font/Mulish-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'poppins-light';
+    src: url('../font/Poppins-Light.ttf');
+}
+
+@font-face {
+    font-family: 'mulish-semibold';
+    src: url('../font/Mulish-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'mulish-regular';
+    src: url('../font/Mulish-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'mulish-light';
+    src: url('../font/Mulish-Light.ttf');
+}
+
+@font-face {
+    font-family: 'urbanist-semibold';
+    src: url('../font/Urbanist-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'urbanist-bold';
+    src: url('../font/Urbanist-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'urbanist-extraBold';
+    src: url('../font/Urbanist-ExtraBold.ttf');
+}
+
+.poppins-medium {
+    font-family: 'poppins-medium';
+}
+
+.poppins-bold {
+    font-family: 'poppins-bold';
+}
+
+.poppins-extralight {
+    font-family: 'poppins-extralight';
+}
+
+.poppins-regular {
+    font-family: 'poppins-regular';
+}
+
+.poppins-semiBold {
+    font-family: 'poppins-semiBold';
+}
+
+.poppins-light {
+    font-family: 'poppins-light';
+}
+
+.mulish-semibold {
+    font-family: 'mulish-semibold';
+}
+
+.mulish-regular {
+    font-family: 'mulish-regular';
+}
+
+.mulish-light {
+    font-family: 'mulish-light';
+}
+
+.urbanist-semibold {
+    font-family: 'urbanist-semibold';
+}
+
+.urbanist-bold {
+    font-family: 'urbanist-bold';
+}
+
+.urbanist-extraBold {
+    font-family: 'urbanist-extraBold';
+}
+
+/* Font Style Ends */

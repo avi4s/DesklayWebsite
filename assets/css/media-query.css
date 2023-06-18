@@ -1,0 +1,235 @@
+@media screen and (max-width:768px) {
+    .deskIconNav {
+        max-width: 65%;
+        margin-left: 16%;
+    }
+
+    .home {
+        color: rgb(222, 222, 222);
+        text-decoration: none;
+        font-size: 12px;
+        /* font-weight: 400; */
+    }
+    .haveYouTitle {
+        font-size: 20px;
+        padding: 9px 0px;
+    }
+
+    .component77 {
+        margin-left:60px;
+    }
+}
+
+@media screen and (min-width:760px) and (max-width:1023px) {
+    .toolsImageOur {
+        max-width: 16%;
+    }
+
+    .haveYouTitle {
+        font-size: 20px;
+        padding: 9px 0px;
+    }
+   
+}
+
+@media screen and (max-width:991px) {
+    #myScrollBtn {
+        display: none;
+        position: fixed;
+        bottom: 10px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: #13C568;
+        color: white;
+        cursor: pointer;
+        padding: 3px 6px;
+        border-radius: 100%;
+        height: 8%;
+        font-size: 32px;
+        /* width: 4.5%; */
+    }
+
+    .deskIconNav {
+        max-width: 65%;
+        margin-left: 45%;
+    }
+
+    .getHigh {
+        font-size: 27px;
+    }
+
+    .getHighImg {
+        position: relative;
+        /* top: 20px; */
+        top: 25%;
+        max-width: 60%;
+        left: 18%;
+    }
+
+    .getHighImg2 {
+        max-width: 60%;
+        position: relative;
+        bottom: 35px;
+        left: 18%;
+    }
+
+    .getHighImgApp {
+        position: relative;
+        max-width: 50%;
+        bottom: 10px;
+        left: 23%;
+    }
+
+    .getHighImg2App {
+        position: relative;
+        max-width: 50%;
+        bottom: 45px;
+        left: 23%;
+    }
+    .LowCodePromise {
+        font-size: 35px;
+    }
+
+    .loremMainSection {
+        font-size: 14px;
+    }
+
+    .mvpLoremText {
+        font-size: 15px;
+    }
+
+    .haveYouTitle {
+        font-size: 14px;
+        padding: 5px -15px;
+        text-align: center;
+    }
+
+    .component77 {
+        margin-left: 20px;
+    }
+
+    .ReducedCostText {
+        font-size: 20px;
+    }
+    .blogDetailsCards {
+        margin-left: 15%;
+    }
+
+    .blogsSearchHere {
+        margin-left: 15%;
+    }
+
+    .postCaregoriesSection {
+        margin-left: 15%;
+    }
+    .relatedPostSection {
+        margin-left: 15%;
+    }
+
+    .tagsSection {
+        margin-left: 15%;
+    }
+
+    .industry_shape {
+        position: relative;
+        bottom: 5px;
+        z-index: -1;
+        opacity: 0.2;
+        /* max-width: 100%; */
+    }
+
+    .industriesShape {
+        position: relative;
+        bottom: 60px;
+    }
+}
+
+@media screen and (max-width:280px) {
+    /* p{
+        text-align: justify;
+    } */
+    #myScrollBtn {
+        display: none;
+        position: fixed;
+        bottom: 10px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: #13C568;
+        color: white;
+        cursor: pointer;
+        padding: 3px 6px;
+        border-radius: 100%;
+        height: 8%;
+        font-size: 32px;
+        /* width: 4.5%; */
+    }
+
+    .deskIconNav {
+        max-width: 65%;
+        margin-left: 35%;
+    }
+
+    .btntext {
+        background-color: #13C568;
+        color: white;
+        font-size: 12px;
+        padding: 10px 20px;
+        width: 120px;
+        border: 1px solid #13C568;
+        margin-left: -23px;
+    }
+
+    .mainSection::before {
+        position: absolute;
+        content: '';
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(113.5001723098901deg, #133585 5.736111111111111%, #133585 96.29166666666666%);
+        border-radius: 0 0 51% 50% / 0 0 100% 100%;
+        transform: scaleX(1.7);
+    }
+
+    .industriesShape {
+        position: relative;
+        bottom: 60px;
+    }
+    .component77 {
+        margin-left: -10px;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .carouselTools .carousel-item>div {
+        display: none
+    }
+
+    .carouselTools .carousel-item>div:first-child {
+        display: block
+    }
+}
+
+.carouselTools .carousel-item.active,
+.carouselTools .carousel-item-next,
+.carouselTools .carousel-item-prev {
+    display: flex
+}
+
+@media (min-width: 768px) {
+
+    .carouselTools .carousel-item-end.active,
+    .carouselTools .carousel-item-next {
+        transform: translateX(25%)
+    }
+
+    .carouselTools .carousel-item-start.active,
+    .carouselTools .carousel-item-prev {
+        transform: translateX(-25%)
+    }
+}
